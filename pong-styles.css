@@ -78,6 +78,7 @@ body {
   width: 20px;
   height: 20px;
   background-color: lime;
+  background-image: url("ball.png");
   border-radius: 10px;
   position: absolute;
   left: 50px;
