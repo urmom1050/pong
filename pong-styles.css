@@ -77,7 +77,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: lime;
+  background-color: grey;
   background-image: url("ball.png");
   border-radius: 10px;
   position: absolute;
