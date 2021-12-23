@@ -55,7 +55,7 @@ soundArray.push(scoreSound);
 export var ambientSound = new soundFile("bgmloop.mp3");
 soundArray.push(ambientSound);
 ambientSound.player.loop = true; //turn on looping
-ambientSound.player.volume.value = 30; //turn down volume
+ambientSound.player.volume.value = 12; //turn down volume
 
 export var adventureMusic = new soundFile("Eight_Bit_Village_Loop.mp3");
 soundArray.push(adventureMusic);
