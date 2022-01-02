@@ -60,7 +60,7 @@ ambientSound.player.volume.value = 5; //turn down volume
 export var adventureMusic = new soundFile("factory.mp3");
 soundArray.push(adventureMusic);
 adventureMusic.player.loop = true;
-adventureMusic.player.volume.value = -16;
+adventureMusic.player.volume.value = 5;
 
 export var villageMusic = new soundFile("phaserDown2.mp3");
 soundArray.push(villageMusic);
