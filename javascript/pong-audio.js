@@ -57,7 +57,7 @@ soundArray.push(ambientSound);
 ambientSound.player.loop = true; //turn on looping
 ambientSound.player.volume.value = 5; //turn down volume
 
-export var adventureMusic = new soundFile("Eight_Bit_Village_Loop.mp3");
+export var adventureMusic = new soundFile("factory.mp3");
 soundArray.push(adventureMusic);
 adventureMusic.player.loop = true;
 adventureMusic.player.volume.value = -16;
